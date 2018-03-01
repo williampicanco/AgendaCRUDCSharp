@@ -1,0 +1,12 @@
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\bin\Debug\CRUD_Dapper2.exe.config
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\bin\Debug\CRUD_Dapper2.exe
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\bin\Debug\CRUD_Dapper2.pdb
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\bin\Debug\Dapper.dll
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\bin\Debug\MetroFramework.dll
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\bin\Debug\Dapper.xml
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\obj\Debug\CRUD_Dapper2.Form1.resources
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\obj\Debug\CRUD_Dapper2.Properties.Resources.resources
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\obj\Debug\CRUD_Dapper2.csproj.GenerateResource.Cache
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\obj\Debug\CRUD_Dapper2.exe
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\obj\Debug\CRUD_Dapper2.pdb
+c:\users\wiliam\documents\visual studio 2015\Projects\CRUD_Dapper\CRUD_Dapper2\obj\Debug\CRUD_Dapper2.csprojResolveAssemblyReference.cache

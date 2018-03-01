@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudWebService", "CrudWebService\CrudWebService.csproj", "{64C8AF9E-777E-423A-8791-3C2D1CC57B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_Dapper2", "CRUD_Dapper2\CRUD_Dapper2.csproj", "{43834BB6-0FC3-44A3-85CA-4520B67AA8AE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{64C8AF9E-777E-423A-8791-3C2D1CC57B11} = {64C8AF9E-777E-423A-8791-3C2D1CC57B11}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C8AF9E-777E-423A-8791-3C2D1CC57B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C8AF9E-777E-423A-8791-3C2D1CC57B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C8AF9E-777E-423A-8791-3C2D1CC57B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C8AF9E-777E-423A-8791-3C2D1CC57B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43834BB6-0FC3-44A3-85CA-4520B67AA8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43834BB6-0FC3-44A3-85CA-4520B67AA8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43834BB6-0FC3-44A3-85CA-4520B67AA8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43834BB6-0FC3-44A3-85CA-4520B67AA8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
